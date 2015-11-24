@@ -1,0 +1,24 @@
+{
+  "name": "angular-translate-directive",
+  "version": "0.0.1",
+  "description": "UI directive for switching languages without controller logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliusgromyko/angular-translate-directive.git"
+  },
+  "keywords": [
+    "angular",
+    "angular-translate",
+    "directive"
+  ],
+  "author": "Julius Gromyko <JuliusGromyko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliusgromyko/angular-translate-directive/issues"
+  },
+  "homepage": "https://github.com/juliusgromyko/angular-translate-directive#readme"
+}
