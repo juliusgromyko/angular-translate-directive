@@ -2,7 +2,7 @@
   "name": "angular-translate-directive",
   "version": "1.0.4",
   "description": "angular-translate-directive",
-  "main": "index.js",
+  "main": "angular-translate-directive.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
